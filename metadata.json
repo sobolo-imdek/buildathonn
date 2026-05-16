@@ -1,0 +1,6 @@
+{
+  "name": "Team Project Tracker",
+  "description": "A clean and efficient tool to manage team projects, track owners, and monitor progress statuses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
